@@ -16,7 +16,7 @@ jobs:
     environment: production
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v5
+      - uses: actions/checkout@v7
 
       - name: Require reviewed dependency lock
         run: test -f package-lock.json
