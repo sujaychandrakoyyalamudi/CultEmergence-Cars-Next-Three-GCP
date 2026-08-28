@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720" role="img" aria-labelledby="title desc">
+<title id="title">Toyota Camry LE Hybrid abstract fallback illustration</title>
+<desc id="desc">An original geometric car silhouette used when the remote open-license photograph cannot load.</desc>
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0a0c10"/><stop offset="1" stop-color="#1b1f27"/></linearGradient>
+ <linearGradient id="paint" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#57d9ff"/><stop offset="1" stop-color="#ffffff" stop-opacity=".32"/></linearGradient>
+ <filter id="blur"><feGaussianBlur stdDeviation="42"/></filter>
+</defs>
+<rect width="1200" height="720" fill="url(#bg)"/>
+<ellipse cx="620" cy="340" rx="390" ry="185" fill="#57d9ff" opacity=".14" filter="url(#blur)"/>
+<path d="M188 435 C250 350, 315 330, 395 322 L475 300 C535 215, 725 207, 815 300 L955 335 C1010 342, 1040 385, 1038 435 Z" fill="url(#paint)" stroke="#fff" stroke-opacity=".24" stroke-width="3"/>
+<path d="M455 295 C515 233, 698 227, 790 295 Z" fill="#0b1018" opacity=".88"/>
+<path d="M490 288 L554 247 L602 245 L602 288 Z" fill="#7195a8" opacity=".32"/>
+<path d="M620 288 L620 245 L696 243 L760 288 Z" fill="#7195a8" opacity=".32"/>
+<circle cx="360" cy="440" r="82" fill="#07080b"/><circle cx="360" cy="440" r="43" fill="#848d99"/><circle cx="360" cy="440" r="14" fill="#1a1e24"/>
+<circle cx="875" cy="440" r="82" fill="#07080b"/><circle cx="875" cy="440" r="43" fill="#848d99"/><circle cx="875" cy="440" r="14" fill="#1a1e24"/>
+<path d="M194 396 H270" stroke="#fff" stroke-width="11" stroke-linecap="round" opacity=".75"/>
+<path d="M963 390 H1028" stroke="#ff3d2e" stroke-width="11" stroke-linecap="round"/>
+<text x="70" y="82" fill="#fff" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="22" font-weight="700">CULTEMERGENCE</text>
+<text x="70" y="625" fill="#fff" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="57" font-weight="720" letter-spacing="-2">Toyota</text>
+<text x="70" y="672" fill="#fff" fill-opacity=".52" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="31">Camry LE Hybrid</text>
+<text x="1100" y="665" text-anchor="end" fill="#57d9ff" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="22" font-weight="800">02</text>
+</svg>

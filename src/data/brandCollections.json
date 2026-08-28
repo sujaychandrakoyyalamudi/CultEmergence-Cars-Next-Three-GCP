@@ -1,0 +1,1102 @@
+[
+  {
+    "slug": "porsche",
+    "name": "Porsche",
+    "accent": "#d5001c",
+    "summary": "Ten current Porsche standouts spanning rear-engine icons, mid-engine sports cars, electric performance and utility without losing the marque's driver-first character.",
+    "scopeNote": "Ten current U.S. model variants, ranked editorially across mission, engineering distinction and range breadth.",
+    "source": {
+      "label": "Porsche USA — model overview",
+      "url": "https://www.porsche.com/usa/models/"
+    },
+    "entries": [
+      {
+        "rank": 1,
+        "year": "2027",
+        "model": "911 Carrera GTS",
+        "category": "Sports car",
+        "powertrain": "T-Hybrid turbo flat-six",
+        "price": "From $181,000",
+        "highlight": "532 hp combined; 0–60 mph in 3.0 sec",
+        "officialUrl": "https://www.porsche.com/usa/models/911/carrera-models/911-carrera-gts/",
+        "detailSlug": "porsche-911-carrera-gts"
+      },
+      {
+        "rank": 2,
+        "year": "2027",
+        "model": "911 GT3",
+        "category": "Track-focused sports car",
+        "powertrain": "Naturally aspirated flat-six",
+        "price": "From $235,800",
+        "highlight": "502 hp; 193-mph top track speed",
+        "officialUrl": "https://www.porsche.com/usa/models/911/911-gt3-models/911-gt3/"
+      },
+      {
+        "rank": 3,
+        "year": "2026",
+        "model": "Cayenne Turbo Electric",
+        "category": "Electric performance SUV",
+        "powertrain": "Dual-motor battery electric",
+        "price": "From $163,000",
+        "highlight": "Up to 1,139 hp; 0–60 mph in 2.4 sec",
+        "officialUrl": "https://www.porsche.com/usa/models/cayenne/cayenne-electric-models/cayenne-turbo-electric/"
+      },
+      {
+        "rank": 4,
+        "year": "2027",
+        "model": "Taycan",
+        "category": "Electric sport sedan",
+        "powertrain": "Rear-motor battery electric",
+        "price": "From $111,900",
+        "highlight": "Up to 402 hp; 0–60 mph in 4.5 sec",
+        "officialUrl": "https://www.porsche.com/usa/models/taycan/taycan-models/taycan/"
+      },
+      {
+        "rank": 5,
+        "year": "2026",
+        "model": "Macan GTS",
+        "category": "Performance SUV",
+        "powertrain": "Twin-turbo gasoline V6",
+        "price": "From $94,200",
+        "highlight": "434 hp; 0–60 mph in 4.3 sec",
+        "officialUrl": "https://www.porsche.com/usa/models/macan/macan-models/macan-gts/"
+      },
+      {
+        "rank": 6,
+        "year": "2025",
+        "model": "718 Cayman",
+        "category": "Mid-engine sports car",
+        "powertrain": "Turbo gasoline flat-four",
+        "price": "From $75,400",
+        "highlight": "300 hp; manual or automatic",
+        "officialUrl": "https://www.porsche.com/usa/models/718/718-models/718-cayman/"
+      },
+      {
+        "rank": 7,
+        "year": "2026",
+        "model": "Macan Electric",
+        "category": "Electric SUV",
+        "powertrain": "Battery electric",
+        "price": "See current MSRP",
+        "highlight": "Porsche's compact electric utility vehicle",
+        "officialUrl": "https://www.porsche.com/usa/models/macan/macan-electric-models/"
+      },
+      {
+        "rank": 8,
+        "year": "2026",
+        "model": "Panamera 4 E-Hybrid",
+        "category": "Plug-in hybrid sport sedan",
+        "powertrain": "Turbo V6 plug-in hybrid",
+        "price": "See current MSRP",
+        "highlight": "Four-door grand touring with electric assist",
+        "officialUrl": "https://www.porsche.com/usa/models/panamera/panamera-models/panamera-4-e-hybrid/"
+      },
+      {
+        "rank": 9,
+        "year": "2027",
+        "model": "911 Carrera",
+        "category": "Sports car",
+        "powertrain": "Twin-turbo gasoline flat-six",
+        "price": "See current MSRP",
+        "highlight": "The core rear-engine 911 experience",
+        "officialUrl": "https://www.porsche.com/usa/models/911/carrera-models/911-carrera/"
+      },
+      {
+        "rank": 10,
+        "year": "2026",
+        "model": "Cayenne S E-Hybrid",
+        "category": "Plug-in hybrid SUV",
+        "powertrain": "Turbo V6 plug-in hybrid",
+        "price": "See current MSRP",
+        "highlight": "Performance and electric commuting flexibility",
+        "officialUrl": "https://www.porsche.com/usa/models/cayenne/cayenne-models/cayenne-s-e-hybrid/"
+      }
+    ]
+  },
+  {
+    "slug": "toyota",
+    "name": "Toyota",
+    "accent": "#eb0a1e",
+    "summary": "Toyota's strongest current vehicles range from efficient hybrids to affordable sports cars, family haulers, work-ready pickups and serious body-on-frame trail machines.",
+    "scopeNote": "Ten current U.S. nameplates, ranked editorially for mission execution, relevance, value and engineering variety.",
+    "source": {
+      "label": "Toyota USA — all vehicles",
+      "url": "https://www.toyota.com/all-vehicles/"
+    },
+    "entries": [
+      {
+        "rank": 1,
+        "year": "2026",
+        "model": "Camry LE Hybrid",
+        "category": "Midsize sedan",
+        "powertrain": "Gas-electric hybrid",
+        "price": "From $29,300",
+        "highlight": "Efficient, roomy and standard-hybrid",
+        "officialUrl": "https://www.toyota.com/camry/",
+        "detailSlug": "toyota-camry-le-hybrid"
+      },
+      {
+        "rank": 2,
+        "year": "2026",
+        "model": "GR Corolla",
+        "category": "Performance hatchback",
+        "powertrain": "Turbo three-cylinder gasoline",
+        "price": "From $40,120",
+        "highlight": "300 hp and GR-FOUR all-wheel drive",
+        "officialUrl": "https://www.toyota.com/grcorolla/"
+      },
+      {
+        "rank": 3,
+        "year": "2026",
+        "model": "GR Supra",
+        "category": "Sports coupe",
+        "powertrain": "Turbo inline-six gasoline",
+        "price": "From $58,300",
+        "highlight": "Rear-drive two-seat performance flagship",
+        "officialUrl": "https://www.toyota.com/grsupra/"
+      },
+      {
+        "rank": 4,
+        "year": "2026",
+        "model": "Prius",
+        "category": "Hybrid hatchback",
+        "powertrain": "Gas-electric hybrid",
+        "price": "From $28,550",
+        "highlight": "Aerodynamic five-door hybrid efficiency",
+        "officialUrl": "https://www.toyota.com/prius/"
+      },
+      {
+        "rank": 5,
+        "year": "2026",
+        "model": "RAV4",
+        "category": "Compact SUV",
+        "powertrain": "Gas-electric hybrid",
+        "price": "From $31,900",
+        "highlight": "High-volume utility with standard hybrid power",
+        "officialUrl": "https://www.toyota.com/rav4/"
+      },
+      {
+        "rank": 6,
+        "year": "2026",
+        "model": "4Runner i-FORCE MAX",
+        "category": "Off-road SUV",
+        "powertrain": "Turbo four-cylinder hybrid",
+        "price": "From $53,290",
+        "highlight": "Body-on-frame trail capability",
+        "officialUrl": "https://www.toyota.com/4runner/"
+      },
+      {
+        "rank": 7,
+        "year": "2027",
+        "model": "Land Cruiser",
+        "category": "Off-road SUV",
+        "powertrain": "Turbo four-cylinder hybrid",
+        "price": "From $57,880",
+        "highlight": "Full-time 4WD heritage utility",
+        "officialUrl": "https://www.toyota.com/landcruiser/"
+      },
+      {
+        "rank": 8,
+        "year": "2026",
+        "model": "Sienna",
+        "category": "Minivan",
+        "powertrain": "Gas-electric hybrid",
+        "price": "From $40,820",
+        "highlight": "Three-row packaging with hybrid efficiency",
+        "officialUrl": "https://www.toyota.com/sienna/"
+      },
+      {
+        "rank": 9,
+        "year": "2026",
+        "model": "Tacoma",
+        "category": "Midsize pickup",
+        "powertrain": "Turbo four-cylinder gasoline",
+        "price": "From $32,445",
+        "highlight": "Broad work, trail and hybrid model range",
+        "officialUrl": "https://www.toyota.com/tacoma/"
+      },
+      {
+        "rank": 10,
+        "year": "2026",
+        "model": "Corolla Hybrid",
+        "category": "Compact sedan",
+        "powertrain": "Gas-electric hybrid",
+        "price": "From $24,975",
+        "highlight": "Low-cost electrified daily transport",
+        "officialUrl": "https://www.toyota.com/corollahybrid/"
+      }
+    ]
+  },
+  {
+    "slug": "tesla",
+    "name": "Tesla",
+    "accent": "#e82127",
+    "summary": "Tesla's compact catalog becomes a ten-entry field when its materially different drivetrains are treated as configurations, from efficient rear-drive sedans to Plaid and Cyberbeast flagships.",
+    "scopeNote": "Ten current U.S. configurations. Tesla markets vehicles continuously rather than by conventional model year, so these are labeled Current.",
+    "source": {
+      "label": "Tesla — vehicle configurators",
+      "url": "https://www.tesla.com/"
+    },
+    "entries": [
+      {
+        "rank": 1,
+        "year": "Current",
+        "model": "Model 3 Performance",
+        "category": "Electric sport sedan",
+        "powertrain": "Dual-motor battery electric",
+        "price": "From $54,990",
+        "highlight": "Performance-tuned all-wheel drive",
+        "officialUrl": "https://www.tesla.com/model3/design",
+        "detailSlug": "tesla-model-3-performance"
+      },
+      {
+        "rank": 2,
+        "year": "Current",
+        "model": "Model Y Performance",
+        "category": "Electric performance SUV",
+        "powertrain": "Dual-motor battery electric",
+        "price": "Live configurator price",
+        "highlight": "Compact utility with performance calibration",
+        "officialUrl": "https://www.tesla.com/modely/design"
+      },
+      {
+        "rank": 3,
+        "year": "Current",
+        "model": "Model 3 Premium AWD",
+        "category": "Electric sedan",
+        "powertrain": "Dual-motor battery electric",
+        "price": "From $42,490",
+        "highlight": "Long-range all-wheel-drive balance",
+        "officialUrl": "https://www.tesla.com/model3/design"
+      },
+      {
+        "rank": 4,
+        "year": "Current",
+        "model": "Model Y Premium AWD",
+        "category": "Electric SUV",
+        "powertrain": "Dual-motor battery electric",
+        "price": "Live configurator price",
+        "highlight": "Mainstream five-seat electric utility",
+        "officialUrl": "https://www.tesla.com/modely/design"
+      },
+      {
+        "rank": 5,
+        "year": "Current",
+        "model": "Model S Plaid",
+        "category": "Electric performance sedan",
+        "powertrain": "Tri-motor battery electric",
+        "price": "Live configurator price",
+        "highlight": "Tesla's quickest production sedan",
+        "officialUrl": "https://www.tesla.com/models/design"
+      },
+      {
+        "rank": 6,
+        "year": "Current",
+        "model": "Model X Plaid",
+        "category": "Electric performance SUV",
+        "powertrain": "Tri-motor battery electric",
+        "price": "Live configurator price",
+        "highlight": "Three-row pace with Falcon Wing doors",
+        "officialUrl": "https://www.tesla.com/modelx/design"
+      },
+      {
+        "rank": 7,
+        "year": "Current",
+        "model": "Cyberbeast",
+        "category": "Electric performance pickup",
+        "powertrain": "Tri-motor battery electric",
+        "price": "Live configurator price",
+        "highlight": "Top-output Cybertruck configuration",
+        "officialUrl": "https://www.tesla.com/cybertruck/design"
+      },
+      {
+        "rank": 8,
+        "year": "Current",
+        "model": "Cybertruck Premium AWD",
+        "category": "Electric pickup",
+        "powertrain": "Dual-motor battery electric",
+        "price": "From $84,990",
+        "highlight": "Adaptive air suspension and powered bed",
+        "officialUrl": "https://www.tesla.com/cybertruck/design"
+      },
+      {
+        "rank": 9,
+        "year": "Current",
+        "model": "Model 3 Rear-Wheel Drive",
+        "category": "Electric sedan",
+        "powertrain": "Single-motor battery electric",
+        "price": "From $36,990",
+        "highlight": "Lowest-priced Model 3 configuration",
+        "officialUrl": "https://www.tesla.com/model3/design"
+      },
+      {
+        "rank": 10,
+        "year": "Current",
+        "model": "Model Y Rear-Wheel Drive",
+        "category": "Electric SUV",
+        "powertrain": "Single-motor battery electric",
+        "price": "Live configurator price",
+        "highlight": "Entry point to Tesla's crossover",
+        "officialUrl": "https://www.tesla.com/modely/design"
+      }
+    ]
+  },
+  {
+    "slug": "mercedes-benz",
+    "name": "Mercedes-Benz",
+    "accent": "#00adef",
+    "summary": "Mercedes-Benz covers more ground than almost any premium maker; this ten-car edit favors the models that best express comfort, performance, utility and electrification.",
+    "scopeNote": "Ten current U.S. nameplates and variants, ranked editorially rather than by sales volume.",
+    "source": {
+      "label": "Mercedes-Benz USA — all vehicles",
+      "url": "https://www.mbusa.com/en/all-vehicles"
+    },
+    "entries": [
+      {
+        "rank": 1,
+        "year": "2027",
+        "model": "E 450 4MATIC Sedan",
+        "category": "Executive sedan",
+        "powertrain": "Turbo inline-six mild hybrid",
+        "price": "From $73,700",
+        "highlight": "Balanced luxury, technology and six-cylinder power",
+        "officialUrl": "https://www.mbusa.com/en/vehicles/model/e-class/sedan/e450w4",
+        "detailSlug": "mercedes-benz-e-450-4matic"
+      },
+      {
+        "rank": 2,
+        "year": "2026",
+        "model": "S-Class Sedan",
+        "category": "Flagship luxury sedan",
+        "powertrain": "Mild-hybrid gasoline",
+        "price": "See current MSRP",
+        "highlight": "The marque's comfort and technology benchmark",
+        "officialUrl": "https://www.mbusa.com/en/vehicles/class/s-class/sedan"
+      },
+      {
+        "rank": 3,
+        "year": "2026",
+        "model": "AMG GT Coupe",
+        "category": "Performance coupe",
+        "powertrain": "AMG gasoline",
+        "price": "See current MSRP",
+        "highlight": "Two-door AMG flagship with all-wheel drive",
+        "officialUrl": "https://www.mbusa.com/en/vehicles/class/amg-gt/coupe"
+      },
+      {
+        "rank": 4,
+        "year": "2026",
+        "model": "G-Class SUV",
+        "category": "Luxury off-road SUV",
+        "powertrain": "Gasoline or battery electric",
+        "price": "From $153,900",
+        "highlight": "Body-on-frame capability and iconic packaging",
+        "officialUrl": "https://www.mbusa.com/en/vehicles/class/g-class/suv"
+      },
+      {
+        "rank": 5,
+        "year": "2026",
+        "model": "EQS Sedan",
+        "category": "Electric luxury sedan",
+        "powertrain": "Battery electric",
+        "price": "See current MSRP",
+        "highlight": "Dedicated electric flagship architecture",
+        "officialUrl": "https://www.mbusa.com/en/vehicles/class/eqs/sedan"
+      },
+      {
+        "rank": 6,
+        "year": "2026",
+        "model": "GLE SUV",
+        "category": "Midsize luxury SUV",
+        "powertrain": "Gasoline and plug-in hybrid",
+        "price": "From $62,250",
+        "highlight": "Broad six-model luxury utility range",
+        "officialUrl": "https://www.mbusa.com/en/vehicles/class/gle/suv"
+      },
+      {
+        "rank": 7,
+        "year": "2026",
+        "model": "C-Class Sedan",
+        "category": "Compact luxury sedan",
+        "powertrain": "Turbo four-cylinder mild hybrid",
+        "price": "From $49,650",
+        "highlight": "Compact entry to rear-drive Mercedes sedans",
+        "officialUrl": "https://www.mbusa.com/en/vehicles/class/c-class/sedan"
+      },
+      {
+        "rank": 8,
+        "year": "2026",
+        "model": "GLC SUV",
+        "category": "Compact luxury SUV",
+        "powertrain": "Gasoline and plug-in hybrid",
+        "price": "From $49,550",
+        "highlight": "Core compact luxury utility",
+        "officialUrl": "https://www.mbusa.com/en/vehicles/class/glc/suv"
+      },
+      {
+        "rank": 9,
+        "year": "2026",
+        "model": "CLE Coupe",
+        "category": "Luxury coupe",
+        "powertrain": "Mild-hybrid gasoline",
+        "price": "See current MSRP",
+        "highlight": "Two-door grand touring in a consolidated range",
+        "officialUrl": "https://www.mbusa.com/en/vehicles/class/cle/coupe"
+      },
+      {
+        "rank": 10,
+        "year": "2026",
+        "model": "AMG SL Roadster",
+        "category": "Performance roadster",
+        "powertrain": "AMG gasoline or plug-in hybrid",
+        "price": "See current MSRP",
+        "highlight": "Open-air AMG grand tourer",
+        "officialUrl": "https://www.mbusa.com/en/vehicles/class/sl/roadster"
+      }
+    ]
+  },
+  {
+    "slug": "bmw",
+    "name": "BMW",
+    "accent": "#1c69d4",
+    "summary": "BMW's best current work still clusters around fluent chassis, strong powertrains and daily usability, now spread across sedans, coupes, SUVs, wagons and EVs.",
+    "scopeNote": "Ten current U.S. models, ranked editorially across driving character, usefulness and technical distinction.",
+    "source": {
+      "label": "BMW USA — all models and pricing",
+      "url": "https://www.bmwusa.com/all-bmws.html"
+    },
+    "entries": [
+      {
+        "rank": 1,
+        "year": "2027",
+        "model": "M5 Sedan",
+        "category": "Performance sedan",
+        "powertrain": "Twin-turbo V8 plug-in hybrid",
+        "price": "From $123,300",
+        "highlight": "M xDrive with rear-drive capability",
+        "officialUrl": "https://www.bmwusa.com/vehicles/m-series/m5-series/bmw-m5-sedan.html",
+        "detailSlug": "bmw-m5-sedan"
+      },
+      {
+        "rank": 2,
+        "year": "2026",
+        "model": "M3 Sedan",
+        "category": "Performance sedan",
+        "powertrain": "Turbo inline-six gasoline",
+        "price": "From $79,300",
+        "highlight": "Manual rear-drive and automatic AWD variants",
+        "officialUrl": "https://www.bmwusa.com/vehicles/m-series/m3-series/bmw-m3-sedan.html"
+      },
+      {
+        "rank": 3,
+        "year": "2026",
+        "model": "M2 Coupe",
+        "category": "Performance coupe",
+        "powertrain": "Turbo inline-six gasoline",
+        "price": "From $69,500",
+        "highlight": "Compact rear-drive M car",
+        "officialUrl": "https://www.bmwusa.com/vehicles/m-series/m2/bmw-m2-coupe.html"
+      },
+      {
+        "rank": 4,
+        "year": "2026",
+        "model": "i4 eDrive40",
+        "category": "Electric sport sedan",
+        "powertrain": "Single-motor battery electric",
+        "price": "From $57,900",
+        "highlight": "Rear-drive electric Gran Coupe",
+        "officialUrl": "https://www.bmwusa.com/vehicles/all-electric/i4/gran-coupe/overview.html"
+      },
+      {
+        "rank": 5,
+        "year": "2026",
+        "model": "X5 sDrive40i",
+        "category": "Midsize luxury SUV",
+        "powertrain": "Turbo inline-six gasoline",
+        "price": "From $68,300",
+        "highlight": "Six-cylinder utility benchmark",
+        "officialUrl": "https://www.bmwusa.com/vehicles/x-models/x5/suv/overview.html"
+      },
+      {
+        "rank": 6,
+        "year": "2026",
+        "model": "330i Sedan",
+        "category": "Compact sport sedan",
+        "powertrain": "Turbo four-cylinder gasoline",
+        "price": "From $48,000",
+        "highlight": "Rear-drive core of the 3 Series",
+        "officialUrl": "https://www.bmwusa.com/vehicles/3-series/sedan/overview.html"
+      },
+      {
+        "rank": 7,
+        "year": "2026",
+        "model": "iX xDrive45",
+        "category": "Electric luxury SUV",
+        "powertrain": "Dual-motor battery electric",
+        "price": "From $75,150",
+        "highlight": "Dedicated electric luxury utility",
+        "officialUrl": "https://www.bmwusa.com/vehicles/all-electric/ix/suv/overview.html"
+      },
+      {
+        "rank": 8,
+        "year": "2026",
+        "model": "M4 Coupe",
+        "category": "Performance coupe",
+        "powertrain": "Turbo inline-six gasoline",
+        "price": "From $82,200",
+        "highlight": "High-performance two-door with manual option",
+        "officialUrl": "https://www.bmwusa.com/vehicles/m-series/m4-series/bmw-m4-coupe.html"
+      },
+      {
+        "rank": 9,
+        "year": "2026",
+        "model": "X3 30 xDrive",
+        "category": "Compact luxury SUV",
+        "powertrain": "Turbo four-cylinder gasoline",
+        "price": "From $51,300",
+        "highlight": "All-wheel-drive compact utility",
+        "officialUrl": "https://www.bmwusa.com/vehicles/x-models/x3/bmw-x3.html"
+      },
+      {
+        "rank": 10,
+        "year": "2026",
+        "model": "740i Sedan",
+        "category": "Flagship luxury sedan",
+        "powertrain": "Turbo inline-six gasoline",
+        "price": "From $99,800",
+        "highlight": "Flagship comfort with rear-drive availability",
+        "officialUrl": "https://www.bmwusa.com/vehicles/7-series/sedan/overview.html"
+      }
+    ]
+  },
+  {
+    "slug": "lexus",
+    "name": "Lexus",
+    "accent": "#b59a62",
+    "summary": "Lexus is strongest where refinement, ownership ease and distinctive engineering overlap, from the naturally aspirated LC to hybrid family vehicles and the trail-ready GX and LX.",
+    "scopeNote": "Ten current U.S. nameplates, ranked editorially across character, refinement, utility and electrified execution.",
+    "source": {
+      "label": "Lexus USA — current models",
+      "url": "https://www.lexus.com/models"
+    },
+    "entries": [
+      {
+        "rank": 1,
+        "year": "2026",
+        "model": "GX 550",
+        "category": "Luxury off-road SUV",
+        "powertrain": "Twin-turbo V6 gasoline",
+        "price": "From $68,335",
+        "highlight": "Body-on-frame utility with full-time 4WD",
+        "officialUrl": "https://www.lexus.com/models/GX",
+        "detailSlug": "lexus-gx-550"
+      },
+      {
+        "rank": 2,
+        "year": "2026",
+        "model": "LC 500",
+        "category": "Luxury grand tourer",
+        "powertrain": "Naturally aspirated V8 gasoline",
+        "price": "See current MSRP",
+        "highlight": "Naturally aspirated flagship coupe",
+        "officialUrl": "https://www.lexus.com/models/LC"
+      },
+      {
+        "rank": 3,
+        "year": "2026",
+        "model": "ES",
+        "category": "Midsize luxury sedan",
+        "powertrain": "Gasoline or hybrid",
+        "price": "From $48,895",
+        "highlight": "New-generation comfort-focused sedan",
+        "officialUrl": "https://www.lexus.com/models/ES"
+      },
+      {
+        "rank": 4,
+        "year": "2026",
+        "model": "RX",
+        "category": "Midsize luxury SUV",
+        "powertrain": "Gasoline, hybrid or plug-in hybrid",
+        "price": "From $52,375",
+        "highlight": "Six trims across four powertrain themes",
+        "officialUrl": "https://www.lexus.com/models/RX"
+      },
+      {
+        "rank": 5,
+        "year": "2026",
+        "model": "LX 600",
+        "category": "Flagship luxury SUV",
+        "powertrain": "Twin-turbo V6 gasoline",
+        "price": "From $108,550",
+        "highlight": "409 hp and full-time 4WD",
+        "officialUrl": "https://www.lexus.com/models/LX"
+      },
+      {
+        "rank": 6,
+        "year": "2026",
+        "model": "NX 350",
+        "category": "Compact luxury SUV",
+        "powertrain": "Turbo four-cylinder gasoline",
+        "price": "From $47,220",
+        "highlight": "275 hp with all-wheel drive",
+        "officialUrl": "https://www.lexus.com/models/NX"
+      },
+      {
+        "rank": 7,
+        "year": "2026",
+        "model": "TX",
+        "category": "Three-row luxury SUV",
+        "powertrain": "Gasoline, hybrid or plug-in hybrid",
+        "price": "See current MSRP",
+        "highlight": "Family-first three-row packaging",
+        "officialUrl": "https://www.lexus.com/models/TX"
+      },
+      {
+        "rank": 8,
+        "year": "2026",
+        "model": "LS",
+        "category": "Flagship luxury sedan",
+        "powertrain": "Twin-turbo V6 gasoline",
+        "price": "See current MSRP",
+        "highlight": "Quiet flagship sedan experience",
+        "officialUrl": "https://www.lexus.com/models/LS"
+      },
+      {
+        "rank": 9,
+        "year": "2026",
+        "model": "RZ",
+        "category": "Electric luxury SUV",
+        "powertrain": "Battery electric",
+        "price": "See current MSRP",
+        "highlight": "Dedicated Lexus battery-electric utility",
+        "officialUrl": "https://www.lexus.com/models/RZ"
+      },
+      {
+        "rank": 10,
+        "year": "2026",
+        "model": "IS",
+        "category": "Compact sport sedan",
+        "powertrain": "Gasoline",
+        "price": "See current MSRP",
+        "highlight": "Rear-drive compact luxury sedan",
+        "officialUrl": "https://www.lexus.com/models/IS"
+      }
+    ]
+  },
+  {
+    "slug": "ford",
+    "name": "Ford",
+    "accent": "#0068b5",
+    "summary": "Ford's standout vehicles lean into recognizable missions: attainable performance, honest utility, trail capability and electrification that does not erase familiar vehicle forms.",
+    "scopeNote": "Ten current U.S. nameplates, ranked editorially across capability, value, character and everyday usefulness.",
+    "source": {
+      "label": "Ford — vehicle showroom",
+      "url": "https://shop.ford.com/showroom"
+    },
+    "entries": [
+      {
+        "rank": 1,
+        "year": "2026",
+        "model": "Mustang Dark Horse",
+        "category": "Performance coupe",
+        "powertrain": "Naturally aspirated V8 gasoline",
+        "price": "From $64,080",
+        "highlight": "Manual-available 5.0-liter V8 performance",
+        "officialUrl": "https://www.ford.com/cars/mustang/models/dark-horse/",
+        "detailSlug": "ford-mustang-dark-horse"
+      },
+      {
+        "rank": 2,
+        "year": "2026",
+        "model": "Bronco",
+        "category": "Off-road SUV",
+        "powertrain": "Turbo gasoline",
+        "price": "From $40,795",
+        "highlight": "Removable-body trail utility",
+        "officialUrl": "https://www.ford.com/suvs/bronco/"
+      },
+      {
+        "rank": 3,
+        "year": "2026",
+        "model": "F-150",
+        "category": "Full-size pickup",
+        "powertrain": "Gasoline or hybrid",
+        "price": "From $39,585",
+        "highlight": "Broad work, towing and performance range",
+        "officialUrl": "https://www.ford.com/trucks/f150/"
+      },
+      {
+        "rank": 4,
+        "year": "2026",
+        "model": "Maverick",
+        "category": "Compact pickup",
+        "powertrain": "Gasoline or hybrid",
+        "price": "From $28,145",
+        "highlight": "Efficient city-scale pickup packaging",
+        "officialUrl": "https://www.ford.com/trucks/maverick/"
+      },
+      {
+        "rank": 5,
+        "year": "2026",
+        "model": "Ranger",
+        "category": "Midsize pickup",
+        "powertrain": "Turbo gasoline",
+        "price": "From $33,550",
+        "highlight": "Right-sized pickup with Raptor option",
+        "officialUrl": "https://www.ford.com/trucks/ranger/"
+      },
+      {
+        "rank": 6,
+        "year": "2026",
+        "model": "Mustang Mach-E",
+        "category": "Electric SUV",
+        "powertrain": "Battery electric",
+        "price": "From $37,795",
+        "highlight": "Rear- or all-wheel-drive electric utility",
+        "officialUrl": "https://www.ford.com/suvs/mach-e/"
+      },
+      {
+        "rank": 7,
+        "year": "2027",
+        "model": "Explorer",
+        "category": "Three-row SUV",
+        "powertrain": "Turbo gasoline",
+        "price": "From $38,465",
+        "highlight": "Rear-drive-based family utility",
+        "officialUrl": "https://www.ford.com/suvs/explorer/"
+      },
+      {
+        "rank": 8,
+        "year": "2026",
+        "model": "Bronco Sport",
+        "category": "Compact SUV",
+        "powertrain": "Turbo gasoline",
+        "price": "From $31,845",
+        "highlight": "Compact trail-focused crossover",
+        "officialUrl": "https://www.ford.com/suvs/bronco-sport/"
+      },
+      {
+        "rank": 9,
+        "year": "2027",
+        "model": "Expedition",
+        "category": "Full-size SUV",
+        "powertrain": "Twin-turbo V6 gasoline",
+        "price": "From $63,600",
+        "highlight": "Large-family towing and cargo utility",
+        "officialUrl": "https://www.ford.com/suvs/expedition/"
+      },
+      {
+        "rank": 10,
+        "year": "2026",
+        "model": "Escape",
+        "category": "Compact SUV",
+        "powertrain": "Gasoline, hybrid or plug-in hybrid",
+        "price": "From $30,350",
+        "highlight": "Multiple powertrains in a compact footprint",
+        "officialUrl": "https://www.ford.com/suvs-crossovers/escape/"
+      }
+    ]
+  },
+  {
+    "slug": "chevrolet",
+    "name": "Chevrolet",
+    "accent": "#d1a72d",
+    "summary": "Chevrolet's current range is unusually broad, pairing world-class Corvette performance with accessible small vehicles, family SUVs, hard-working pickups and increasingly credible EVs.",
+    "scopeNote": "Ten current U.S. nameplates and variants, ranked editorially across capability, performance, value and market relevance.",
+    "source": {
+      "label": "Chevrolet — current vehicles",
+      "url": "https://www.chevrolet.com/"
+    },
+    "entries": [
+      {
+        "rank": 1,
+        "year": "2027",
+        "model": "Corvette Stingray",
+        "category": "Sports car",
+        "powertrain": "Naturally aspirated V8 gasoline",
+        "price": "From $71,000",
+        "highlight": "Mid-engine performance value benchmark",
+        "officialUrl": "https://www.chevrolet.com/performance/corvette/stingray",
+        "detailSlug": "chevrolet-corvette-stingray"
+      },
+      {
+        "rank": 2,
+        "year": "2027",
+        "model": "Corvette Z06",
+        "category": "Track-focused sports car",
+        "powertrain": "Flat-plane-crank V8 gasoline",
+        "price": "From $121,500",
+        "highlight": "High-revving track-focused Corvette",
+        "officialUrl": "https://www.chevrolet.com/performance/corvette/z06"
+      },
+      {
+        "rank": 3,
+        "year": "2027",
+        "model": "Corvette ZR1",
+        "category": "Supercar",
+        "powertrain": "Twin-turbo V8 gasoline",
+        "price": "From $197,700",
+        "highlight": "Turbocharged Corvette performance flagship",
+        "officialUrl": "https://www.chevrolet.com/performance/corvette/zr1"
+      },
+      {
+        "rank": 4,
+        "year": "2026",
+        "model": "Equinox EV",
+        "category": "Electric compact SUV",
+        "powertrain": "Battery electric",
+        "price": "From $27,600",
+        "highlight": "Accessible long-range electric utility",
+        "officialUrl": "https://www.chevrolet.com/electric/equinox-ev"
+      },
+      {
+        "rank": 5,
+        "year": "2026",
+        "model": "Silverado EV",
+        "category": "Electric full-size pickup",
+        "powertrain": "Battery electric",
+        "price": "From $52,800",
+        "highlight": "Electric pickup with work and range focus",
+        "officialUrl": "https://www.chevrolet.com/electric/silverado-ev"
+      },
+      {
+        "rank": 6,
+        "year": "2026",
+        "model": "Colorado",
+        "category": "Midsize pickup",
+        "powertrain": "Turbo four-cylinder gasoline",
+        "price": "See current MSRP",
+        "highlight": "Midsize work truck with ZR2 trail variant",
+        "officialUrl": "https://www.chevrolet.com/trucks/colorado"
+      },
+      {
+        "rank": 7,
+        "year": "2026",
+        "model": "Silverado 1500",
+        "category": "Full-size pickup",
+        "powertrain": "Gasoline or diesel",
+        "price": "See current MSRP",
+        "highlight": "Broad engine, bed and capability range",
+        "officialUrl": "https://www.chevrolet.com/trucks/silverado/1500"
+      },
+      {
+        "rank": 8,
+        "year": "2026",
+        "model": "Trax",
+        "category": "Subcompact SUV",
+        "powertrain": "Turbo three-cylinder gasoline",
+        "price": "See current MSRP",
+        "highlight": "Space-efficient entry-level crossover",
+        "officialUrl": "https://www.chevrolet.com/suvs/trax"
+      },
+      {
+        "rank": 9,
+        "year": "2026",
+        "model": "Tahoe",
+        "category": "Full-size SUV",
+        "powertrain": "Gasoline or diesel",
+        "price": "See current MSRP",
+        "highlight": "Three-row towing and cargo capability",
+        "officialUrl": "https://www.chevrolet.com/suvs/tahoe"
+      },
+      {
+        "rank": 10,
+        "year": "2026",
+        "model": "Blazer EV",
+        "category": "Electric midsize SUV",
+        "powertrain": "Battery electric",
+        "price": "See current MSRP",
+        "highlight": "Multiple electric drivetrains including SS",
+        "officialUrl": "https://www.chevrolet.com/electric/blazer-ev"
+      }
+    ]
+  },
+  {
+    "slug": "lucid",
+    "name": "Lucid",
+    "accent": "#c8a878",
+    "summary": "Lucid currently sells two vehicle families and six core U.S. configurations. The complete live range is shown instead of padding the list with discontinued or speculative products.",
+    "scopeNote": "All six current U.S. configurations. Lucid has fewer than ten live configurations, so completeness takes priority over an artificial count.",
+    "source": {
+      "label": "Lucid Motors — current Air and Gravity offers",
+      "url": "https://lucidmotors.com/offers"
+    },
+    "entries": [
+      {
+        "rank": 1,
+        "year": "2027",
+        "model": "Air Pure",
+        "category": "Electric luxury sedan",
+        "powertrain": "Single-motor battery electric",
+        "price": "From $70,900",
+        "highlight": "Efficient rear-drive entry to the Air range",
+        "officialUrl": "https://lucidmotors.com/air-pure",
+        "detailSlug": "lucid-air-pure"
+      },
+      {
+        "rank": 2,
+        "year": "2027",
+        "model": "Gravity Grand Touring",
+        "category": "Electric luxury SUV",
+        "powertrain": "Dual-motor battery electric",
+        "price": "See current MSRP",
+        "highlight": "Three-row packaging and long-range focus",
+        "officialUrl": "https://lucidmotors.com/gravity"
+      },
+      {
+        "rank": 3,
+        "year": "2027",
+        "model": "Air Grand Touring",
+        "category": "Electric luxury sedan",
+        "powertrain": "Dual-motor battery electric",
+        "price": "See current MSRP",
+        "highlight": "The range-focused Air flagship",
+        "officialUrl": "https://lucidmotors.com/air-grand-touring"
+      },
+      {
+        "rank": 4,
+        "year": "2027",
+        "model": "Air Sapphire",
+        "category": "Electric performance sedan",
+        "powertrain": "Tri-motor battery electric",
+        "price": "See current MSRP",
+        "highlight": "Three-motor ultra-performance Air",
+        "officialUrl": "https://lucidmotors.com/air-sapphire"
+      },
+      {
+        "rank": 5,
+        "year": "2027",
+        "model": "Gravity Touring",
+        "category": "Electric luxury SUV",
+        "powertrain": "Dual-motor battery electric",
+        "price": "From $80,900",
+        "highlight": "Lower-priced entry to the Gravity range",
+        "officialUrl": "https://lucidmotors.com/gravity"
+      },
+      {
+        "rank": 6,
+        "year": "2027",
+        "model": "Air Touring",
+        "category": "Electric luxury sedan",
+        "powertrain": "Dual-motor battery electric",
+        "price": "See current MSRP",
+        "highlight": "All-wheel-drive performance and range balance",
+        "officialUrl": "https://lucidmotors.com/air-touring"
+      }
+    ]
+  },
+  {
+    "slug": "hyundai",
+    "name": "Hyundai",
+    "accent": "#00aad2",
+    "summary": "Hyundai's current standouts demonstrate unusual range: serious N performance, high-value sedans and crossovers, efficient hybrids and two distinct dedicated electric platforms.",
+    "scopeNote": "Ten current U.S. nameplates and performance variants, ranked editorially across value, innovation, efficiency and mission execution.",
+    "source": {
+      "label": "Hyundai USA — current vehicles",
+      "url": "https://www.hyundaiusa.com/us/en/vehicles"
+    },
+    "entries": [
+      {
+        "rank": 1,
+        "year": "2026",
+        "model": "IONIQ 5 N",
+        "category": "Electric performance hatchback",
+        "powertrain": "Dual-motor battery electric",
+        "price": "From $59,900",
+        "highlight": "N-tuned electric performance with track modes",
+        "officialUrl": "https://www.hyundaiusa.com/us/en/vehicles/ioniq-5-n",
+        "detailSlug": "hyundai-ioniq-5-n"
+      },
+      {
+        "rank": 2,
+        "year": "2026",
+        "model": "IONIQ 5",
+        "category": "Electric crossover",
+        "powertrain": "Battery electric",
+        "price": "From $35,000",
+        "highlight": "800-volt charging architecture",
+        "officialUrl": "https://www.hyundaiusa.com/us/en/vehicles/ioniq-5"
+      },
+      {
+        "rank": 3,
+        "year": "2026",
+        "model": "IONIQ 9",
+        "category": "Electric three-row SUV",
+        "powertrain": "Battery electric",
+        "price": "From $58,955",
+        "highlight": "Three-row EV with six available trims",
+        "officialUrl": "https://www.hyundaiusa.com/us/en/vehicles/ioniq-9"
+      },
+      {
+        "rank": 4,
+        "year": "2026",
+        "model": "Palisade",
+        "category": "Three-row SUV",
+        "powertrain": "Gasoline or hybrid",
+        "price": "See current MSRP",
+        "highlight": "Family-first flagship utility",
+        "officialUrl": "https://www.hyundaiusa.com/us/en/vehicles/palisade"
+      },
+      {
+        "rank": 5,
+        "year": "2026",
+        "model": "Santa Fe Hybrid",
+        "category": "Hybrid midsize SUV",
+        "powertrain": "Turbo gas-electric hybrid",
+        "price": "See current MSRP",
+        "highlight": "Three-row packaging with hybrid efficiency",
+        "officialUrl": "https://www.hyundaiusa.com/us/en/vehicles/santa-fe-hybrid"
+      },
+      {
+        "rank": 6,
+        "year": "2026",
+        "model": "Tucson",
+        "category": "Compact SUV",
+        "powertrain": "Gasoline",
+        "price": "From $29,450",
+        "highlight": "Six trims with available HTRAC AWD",
+        "officialUrl": "https://www.hyundaiusa.com/us/en/vehicles/tucson"
+      },
+      {
+        "rank": 7,
+        "year": "2026",
+        "model": "Elantra N",
+        "category": "Performance sedan",
+        "powertrain": "Turbo four-cylinder gasoline",
+        "price": "From $35,300",
+        "highlight": "276 hp with manual or wet dual-clutch",
+        "officialUrl": "https://www.hyundaiusa.com/us/en/vehicles/elantra-n"
+      },
+      {
+        "rank": 8,
+        "year": "2026",
+        "model": "Sonata N Line",
+        "category": "Sport sedan",
+        "powertrain": "Turbo four-cylinder gasoline",
+        "price": "From $36,050",
+        "highlight": "290 hp and eight-speed wet dual-clutch",
+        "officialUrl": "https://www.hyundaiusa.com/us/en/vehicles/sonata"
+      },
+      {
+        "rank": 9,
+        "year": "2026",
+        "model": "Elantra Hybrid",
+        "category": "Hybrid compact sedan",
+        "powertrain": "Gas-electric hybrid",
+        "price": "From $25,650",
+        "highlight": "Up to 54 MPG combined EPA estimate",
+        "officialUrl": "https://www.hyundaiusa.com/us/en/vehicles/elantra-hybrid"
+      },
+      {
+        "rank": 10,
+        "year": "2026",
+        "model": "Santa Cruz",
+        "category": "Compact pickup",
+        "powertrain": "Gasoline",
+        "price": "See current MSRP",
+        "highlight": "Open-bed utility in a compact footprint",
+        "officialUrl": "https://www.hyundaiusa.com/us/en/vehicles/santa-cruz"
+      }
+    ]
+  }
+]

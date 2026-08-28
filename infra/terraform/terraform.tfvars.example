@@ -1,0 +1,8 @@
+project_id          = "YOUR_GCP_PROJECT_ID"
+region              = "us-central1"
+domain              = "cultemergence.com"
+container_image     = "us-central1-docker.pkg.dev/YOUR_GCP_PROJECT_ID/cultemergence/cars-web:REPLACE_WITH_IMMUTABLE_TAG_OR_DIGEST"
+manage_dns          = false
+min_instances       = 0
+max_instances       = 10
+deletion_protection = true

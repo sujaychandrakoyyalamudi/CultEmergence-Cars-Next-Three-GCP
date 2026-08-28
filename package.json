@@ -1,0 +1,44 @@
+{
+  "name": "cultemergence-cars",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A cinematic, accessible 3D editorial guide to ten standout cars sold in the United States.",
+  "engines": {
+    "node": ">=22.14 <23"
+  },
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "node scripts/start.mjs",
+    "lint": "eslint . --max-warnings=0",
+    "typecheck": "tsc --noEmit",
+    "format": "prettier --write .",
+    "format:check": "node scripts/check-format.mjs",
+    "test": "vitest run",
+    "test:e2e": "playwright test",
+    "validate:data": "node scripts/validate-data.mjs",
+    "verify:structure": "python3 scripts/verify-project.py",
+    "check": "npm run validate:data && npm run verify:structure && npm run format:check && npm run lint && npm run typecheck && npm run test && npm run build"
+  },
+  "dependencies": {
+    "@react-three/drei": "10.7.8",
+    "@react-three/fiber": "9.7.0",
+    "next": "16.3.3",
+    "react": "19.2.8",
+    "react-dom": "19.2.8",
+    "three": "0.185.1",
+    "zod": "4.4.3"
+  },
+  "devDependencies": {
+    "@playwright/test": "1.62.1",
+    "@types/node": "^22.15.0",
+    "@types/react": "^19.2.0",
+    "@types/react-dom": "^19.2.0",
+    "@types/three": "^0.185.0",
+    "eslint": "9.39.5",
+    "eslint-config-next": "16.3.3",
+    "prettier": "3.9.6",
+    "typescript": "5.9.3",
+    "vitest": "4.1.11"
+  }
+}

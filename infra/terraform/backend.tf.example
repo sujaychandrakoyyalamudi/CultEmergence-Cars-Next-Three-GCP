@@ -1,0 +1,6 @@
+terraform {
+  backend "gcs" {
+    bucket = "YOUR_UNIQUE_TERRAFORM_STATE_BUCKET"
+    prefix = "cultemergence/production"
+  }
+}

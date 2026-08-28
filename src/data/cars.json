@@ -1,0 +1,801 @@
+[
+  {
+    "slug": "porsche-911-carrera-gts",
+    "rank": 1,
+    "modelYear": 2027,
+    "brand": "Porsche",
+    "model": "911 Carrera GTS",
+    "category": "Sports car",
+    "award": "Best sports car",
+    "tagline": "The benchmark, electrified without losing its pulse.",
+    "summary": "A rear-engined icon with a compact T-Hybrid system, startling response and the rare ability to feel special at road speed as well as on a circuit.",
+    "whyItMadeTheList": "The Carrera GTS remains the most complete intersection of usability, communication, speed and engineering theater in this collection.",
+    "price": {
+      "amountUsd": 181000,
+      "display": "From $181,000",
+      "qualifier": "MSRP; options, taxes, title, registration, delivery and dealer charges excluded.",
+      "checkedOn": "2026-08-26"
+    },
+    "powertrain": {
+      "type": "Performance hybrid gasoline",
+      "engine": "3.6L turbo flat-six with T-Hybrid assistance",
+      "drive": "Rear-wheel drive",
+      "transmission": "8-speed PDK dual-clutch automatic"
+    },
+    "specs": [
+      {
+        "label": "Power",
+        "value": "532 hp",
+        "sortValue": 532,
+        "unit": "hp"
+      },
+      {
+        "label": "0–60 mph",
+        "value": "2.9 sec",
+        "sortValue": 2.9,
+        "unit": "sec"
+      },
+      {
+        "label": "Top speed",
+        "value": "194 mph",
+        "sortValue": 194,
+        "unit": "mph"
+      },
+      {
+        "label": "Drive",
+        "value": "RWD"
+      }
+    ],
+    "strengths": [
+      "Immediate hybrid-assisted response",
+      "Exceptional steering and chassis fluency",
+      "Genuine daily usability"
+    ],
+    "tradeoffs": [
+      "Very high entry price",
+      "Options can raise the transaction price sharply",
+      "Small rear seats"
+    ],
+    "accent": "#c7ff3d",
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Porsche_911_992_Carrera_GTS_%282%29.jpg/1600px-Porsche_911_992_Carrera_GTS_%282%29.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Porsche_911_992_Carrera_GTS_(2).jpg",
+      "fallback": "/images/fallback/porsche-911-carrera-gts.svg",
+      "alt": "Silver Porsche 911 Carrera GTS photographed from the front three-quarter angle",
+      "creator": "Mathious Ier",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "representative": true
+    },
+    "officialUrl": "https://www.porsche.com/usa/models/911/carrera-models/911-carrera-gts/",
+    "sources": [
+      {
+        "label": "Porsche USA — 911 Carrera GTS",
+        "url": "https://www.porsche.com/usa/models/911/carrera-models/911-carrera-gts/",
+        "kind": "manufacturer"
+      }
+    ],
+    "silhouette": "sports"
+  },
+  {
+    "slug": "toyota-camry-le-hybrid",
+    "rank": 2,
+    "modelYear": 2026,
+    "brand": "Toyota",
+    "model": "Camry LE Hybrid",
+    "category": "Midsize sedan",
+    "award": "Best everyday sedan",
+    "tagline": "Quiet competence, measured in miles rather than hype.",
+    "summary": "The Camry LE combines a spacious five-seat cabin, standard hybrid power and outstanding fuel economy at a price that keeps the family sedan relevant.",
+    "whyItMadeTheList": "It delivers the strongest everyday-value equation here: efficient, comfortable, easy to own and meaningfully affordable.",
+    "price": {
+      "amountUsd": 29300,
+      "display": "From $29,300",
+      "qualifier": "Base MSRP; Toyota lists a separate $1,295 delivery charge.",
+      "checkedOn": "2026-08-26"
+    },
+    "powertrain": {
+      "type": "Gas-electric hybrid",
+      "engine": "2.5L inline-four with fifth-generation Toyota Hybrid System",
+      "drive": "Front-wheel drive",
+      "transmission": "Electronically controlled continuously variable transmission"
+    },
+    "specs": [
+      {
+        "label": "Power",
+        "value": "225 hp",
+        "sortValue": 225,
+        "unit": "hp"
+      },
+      {
+        "label": "EPA combined",
+        "value": "51 mpg",
+        "sortValue": 51,
+        "unit": "mpg"
+      },
+      {
+        "label": "EPA city / highway",
+        "value": "53 / 50 mpg"
+      },
+      {
+        "label": "Seats",
+        "value": "5",
+        "sortValue": 5
+      }
+    ],
+    "strengths": [
+      "Excellent real-world efficiency",
+      "Strong value and standard safety equipment",
+      "Comfortable, low-effort daily driving"
+    ],
+    "tradeoffs": [
+      "Less engaging than performance-oriented alternatives",
+      "Base cabin favors durability over drama",
+      "No non-hybrid powertrain"
+    ],
+    "accent": "#57d9ff",
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/TOYOTA_CAMRY_%28XV80%29_China_%2818%29.jpg/1600px-TOYOTA_CAMRY_%28XV80%29_China_%2818%29.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:TOYOTA_CAMRY_(XV80)_China_(18).jpg",
+      "fallback": "/images/fallback/toyota-camry-le-hybrid.svg",
+      "alt": "Current-generation Toyota Camry photographed from the front three-quarter angle",
+      "creator": "Dinkun Chen",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "representative": true
+    },
+    "officialUrl": "https://www.toyota.com/camry/",
+    "sources": [
+      {
+        "label": "Toyota USA — 2026 Camry",
+        "url": "https://www.toyota.com/camry/",
+        "kind": "manufacturer"
+      }
+    ],
+    "silhouette": "sedan"
+  },
+  {
+    "slug": "tesla-model-3-performance",
+    "rank": 3,
+    "modelYear": 2026,
+    "brand": "Tesla",
+    "model": "Model 3 Performance",
+    "category": "Performance EV sedan",
+    "award": "Best performance EV value",
+    "tagline": "Supercar acceleration in a deceptively simple daily driver.",
+    "summary": "The quickest Model 3 blends dual-motor traction, adaptive damping and a long usable range with a comparatively attainable performance-EV price.",
+    "whyItMadeTheList": "Few new cars combine sub-three-second acceleration, useful range, charging-network access and daily practicality for similar money.",
+    "price": {
+      "amountUsd": 54990,
+      "display": "From $54,990",
+      "qualifier": "Configurator price checked before destination, order, tax and registration fees; Tesla pricing changes frequently.",
+      "checkedOn": "2026-08-26"
+    },
+    "powertrain": {
+      "type": "Battery electric",
+      "engine": "Dual electric motors",
+      "drive": "All-wheel drive",
+      "transmission": "Single-speed reduction gears"
+    },
+    "specs": [
+      {
+        "label": "0–60 mph",
+        "value": "2.9 sec",
+        "sortValue": 2.9,
+        "unit": "sec"
+      },
+      {
+        "label": "EPA range",
+        "value": "309 mi",
+        "sortValue": 309,
+        "unit": "mi"
+      },
+      {
+        "label": "Power",
+        "value": "510 hp test estimate",
+        "sortValue": 510,
+        "unit": "hp"
+      },
+      {
+        "label": "Drive",
+        "value": "Dual-motor AWD"
+      }
+    ],
+    "strengths": [
+      "Extraordinary acceleration for the price",
+      "Efficient shape and useful range",
+      "Mature charging ecosystem"
+    ],
+    "tradeoffs": [
+      "Minimalist controls are not for everyone",
+      "Manufacturer does not publish U.S. horsepower",
+      "Pricing and feature packaging can change quickly"
+    ],
+    "accent": "#ff5449",
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Tesla_Model_3_Highland_Performance_AWD_Pearl_White_Multi-Coat.jpg/1600px-Tesla_Model_3_Highland_Performance_AWD_Pearl_White_Multi-Coat.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Tesla_Model_3_Highland_Performance_AWD_Pearl_White_Multi-Coat.jpg",
+      "fallback": "/images/fallback/tesla-model-3-performance.svg",
+      "alt": "White Tesla Model 3 Performance photographed from the front three-quarter angle",
+      "creator": "Ethan Llamas",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "representative": false
+    },
+    "officialUrl": "https://www.tesla.com/model3/design",
+    "sources": [
+      {
+        "label": "Tesla — Model 3 configurator",
+        "url": "https://www.tesla.com/model3/design",
+        "kind": "manufacturer"
+      },
+      {
+        "label": "Car and Driver — Model 3 specifications",
+        "url": "https://www.caranddriver.com/tesla/model-3",
+        "kind": "independent"
+      }
+    ],
+    "silhouette": "sedan"
+  },
+  {
+    "slug": "mercedes-benz-e-450-4matic",
+    "rank": 4,
+    "modelYear": 2027,
+    "brand": "Mercedes-Benz",
+    "model": "E 450 4MATIC Sedan",
+    "category": "Executive luxury sedan",
+    "award": "Best executive luxury sedan",
+    "tagline": "A calm, fast and deeply polished place to cross a continent.",
+    "summary": "The E 450 pairs a smooth turbo inline-six and standard all-wheel drive with the technology, comfort and measured restraint expected of an executive sedan.",
+    "whyItMadeTheList": "It is the collection's most convincing long-distance luxury tool: quick without being frantic and sophisticated without shouting.",
+    "price": {
+      "amountUsd": 73700,
+      "display": "From $73,700",
+      "qualifier": "Starting MSRP; options, delivery, taxes and dealer charges excluded.",
+      "checkedOn": "2026-08-26"
+    },
+    "powertrain": {
+      "type": "Mild-hybrid gasoline",
+      "engine": "3.0L turbo inline-six with mild-hybrid drive",
+      "drive": "4MATIC all-wheel drive",
+      "transmission": "9G-TRONIC nine-speed automatic"
+    },
+    "specs": [
+      {
+        "label": "Power",
+        "value": "375 hp",
+        "sortValue": 375,
+        "unit": "hp"
+      },
+      {
+        "label": "Torque",
+        "value": "369 lb-ft",
+        "sortValue": 369,
+        "unit": "lb-ft"
+      },
+      {
+        "label": "0–60 mph",
+        "value": "4.4 sec",
+        "sortValue": 4.4,
+        "unit": "sec"
+      },
+      {
+        "label": "EPA city / highway",
+        "value": "22 / 31 mpg"
+      }
+    ],
+    "strengths": [
+      "Silky inline-six power delivery",
+      "Excellent highway comfort and refinement",
+      "Well-integrated driver assistance"
+    ],
+    "tradeoffs": [
+      "Options can become expensive",
+      "Screen-rich cabin may overwhelm minimalists",
+      "Smaller trunk than some rivals"
+    ],
+    "accent": "#d7b3ff",
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Mercedes-Benz_W214_1X7A0885.jpg/1600px-Mercedes-Benz_W214_1X7A0885.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Mercedes-Benz_W214_1X7A0885.jpg",
+      "fallback": "/images/fallback/mercedes-benz-e-450-4matic.svg",
+      "alt": "Current-generation Mercedes-Benz E-Class photographed from the front three-quarter angle",
+      "creator": "Alexander Migl",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "representative": true
+    },
+    "officialUrl": "https://www.mbusa.com/en/vehicles/model/e-class/sedan/e450w4",
+    "sources": [
+      {
+        "label": "Mercedes-Benz USA — E 450 4MATIC",
+        "url": "https://www.mbusa.com/en/vehicles/model/e-class/sedan/e450w4",
+        "kind": "manufacturer"
+      }
+    ],
+    "silhouette": "sedan"
+  },
+  {
+    "slug": "bmw-m5-sedan",
+    "rank": 5,
+    "modelYear": 2027,
+    "brand": "BMW",
+    "model": "M5 Sedan",
+    "category": "High-performance luxury sedan",
+    "award": "Best super sedan",
+    "tagline": "A plug-in hybrid with the numbers of a supercar and four real doors.",
+    "summary": "The M5 combines a twin-turbo V8, electric motor and all-wheel-drive system into a 717-hp executive express that can still operate on electric power for short trips.",
+    "whyItMadeTheList": "It stretches the definition of a sedan further than anything else here, delivering immense speed without giving up adult seating and luxury-car range.",
+    "price": {
+      "amountUsd": 123300,
+      "display": "From $123,300",
+      "qualifier": "Starting MSRP reported for the 2027 U.S. model; delivery, taxes, options and dealer charges excluded.",
+      "checkedOn": "2026-08-26"
+    },
+    "powertrain": {
+      "type": "Plug-in hybrid gasoline",
+      "engine": "4.4L twin-turbo V8 plus electric motor",
+      "drive": "M xDrive all-wheel drive",
+      "transmission": "Eight-speed M Steptronic automatic"
+    },
+    "specs": [
+      {
+        "label": "System power",
+        "value": "717 hp",
+        "sortValue": 717,
+        "unit": "hp"
+      },
+      {
+        "label": "System torque",
+        "value": "738 lb-ft",
+        "sortValue": 738,
+        "unit": "lb-ft"
+      },
+      {
+        "label": "0–60 mph",
+        "value": "3.4 sec",
+        "sortValue": 3.4,
+        "unit": "sec"
+      },
+      {
+        "label": "Top speed",
+        "value": "155 mph; 190 optional"
+      }
+    ],
+    "strengths": [
+      "Huge all-weather performance",
+      "True four-seat luxury-car usefulness",
+      "Short-trip electric capability"
+    ],
+    "tradeoffs": [
+      "Very heavy",
+      "Complex drive-mode configuration",
+      "High price and operating cost"
+    ],
+    "accent": "#71ffb8",
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/BMW_G90_M5_Brooklyn_Grey_Metallic_%287%29.jpg/1600px-BMW_G90_M5_Brooklyn_Grey_Metallic_%287%29.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:BMW_G90_M5_Brooklyn_Grey_Metallic_(7).jpg",
+      "fallback": "/images/fallback/bmw-m5-sedan.svg",
+      "alt": "Gray BMW M5 sedan photographed from the front three-quarter angle",
+      "creator": "Damian B Oh",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "representative": false
+    },
+    "officialUrl": "https://www.bmwusa.com/vehicles/m-series/m5-series/bmw-m5-sedan.html",
+    "sources": [
+      {
+        "label": "BMW USA — M5 technical highlights",
+        "url": "https://www.bmwusa.com/vehicles/m-series/m5-series/bmw-m5-sedan.html",
+        "kind": "manufacturer"
+      },
+      {
+        "label": "Edmunds — 2027 M5 pricing",
+        "url": "https://www.edmunds.com/bmw/m5/",
+        "kind": "independent"
+      }
+    ],
+    "silhouette": "sedan"
+  },
+  {
+    "slug": "lexus-gx-550",
+    "rank": 6,
+    "modelYear": 2026,
+    "brand": "Lexus",
+    "model": "GX 550",
+    "category": "Luxury adventure SUV",
+    "award": "Best luxury adventure SUV",
+    "tagline": "Old-school capability, new-school calm.",
+    "summary": "The body-on-frame GX 550 combines genuine trail hardware and strong towing with the craftsmanship and quiet-road manners expected from Lexus.",
+    "whyItMadeTheList": "It is one of the few luxury SUVs whose rugged appearance reflects real mechanical capability rather than styling alone.",
+    "price": {
+      "amountUsd": 68335,
+      "display": "From $68,335",
+      "qualifier": "Starting MSRP including Lexus delivery, processing and handling fee at time checked.",
+      "checkedOn": "2026-08-26"
+    },
+    "powertrain": {
+      "type": "Gasoline",
+      "engine": "3.4L twin-turbo V6",
+      "drive": "Full-time four-wheel drive",
+      "transmission": "Ten-speed Direct Shift automatic"
+    },
+    "specs": [
+      {
+        "label": "Power",
+        "value": "349 hp",
+        "sortValue": 349,
+        "unit": "hp"
+      },
+      {
+        "label": "Torque",
+        "value": "479 lb-ft",
+        "sortValue": 479,
+        "unit": "lb-ft"
+      },
+      {
+        "label": "Max towing",
+        "value": "Up to 9,096 lb",
+        "sortValue": 9096,
+        "unit": "lb"
+      },
+      {
+        "label": "Drive",
+        "value": "Full-time 4WD"
+      }
+    ],
+    "strengths": [
+      "Authentic low-range off-road capability",
+      "High towing capacity",
+      "Excellent material quality"
+    ],
+    "tradeoffs": [
+      "Fuel economy reflects its size and capability",
+      "Third row depends on trim",
+      "Truck-based ride is less carlike than crossovers"
+    ],
+    "accent": "#ffcf5b",
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Lexus_GX_550_VJA252_Overtrail_Tactical_Beige_%2B_Black_04.jpg/1600px-Lexus_GX_550_VJA252_Overtrail_Tactical_Beige_%2B_Black_04.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Lexus_GX_550_VJA252_Overtrail_Tactical_Beige_%2B_Black_04.jpg",
+      "fallback": "/images/fallback/lexus-gx-550.svg",
+      "alt": "Beige Lexus GX 550 Overtrail photographed from the front three-quarter angle",
+      "creator": "Ethan Llamas",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "representative": false
+    },
+    "officialUrl": "https://www.lexus.com/models/GX",
+    "sources": [
+      {
+        "label": "Lexus USA — 2026 GX",
+        "url": "https://www.lexus.com/models/GX",
+        "kind": "manufacturer"
+      }
+    ],
+    "silhouette": "suv"
+  },
+  {
+    "slug": "ford-mustang-dark-horse",
+    "rank": 7,
+    "modelYear": 2026,
+    "brand": "Ford",
+    "model": "Mustang Dark Horse",
+    "category": "V8 performance coupe",
+    "award": "Best V8 driver's car",
+    "tagline": "A naturally aspirated V8, a manual option and no apology.",
+    "summary": "The Dark Horse sharpens the Mustang with a 500-hp Coyote V8, serious brakes and available track hardware while retaining the character of a classic front-engine coupe.",
+    "whyItMadeTheList": "It celebrates mechanical theater—sound, response and an available six-speed manual—at a time when that experience is becoming rare.",
+    "price": {
+      "amountUsd": 64080,
+      "display": "From $64,080",
+      "qualifier": "Starting MSRP; destination, taxes, title, options and dealer charges excluded.",
+      "checkedOn": "2026-08-26"
+    },
+    "powertrain": {
+      "type": "Gasoline",
+      "engine": "Modified Gen-4 5.0L naturally aspirated Coyote V8",
+      "drive": "Rear-wheel drive",
+      "transmission": "10-speed automatic standard; 6-speed TREMEC manual available"
+    },
+    "specs": [
+      {
+        "label": "Power",
+        "value": "500 hp",
+        "sortValue": 500,
+        "unit": "hp"
+      },
+      {
+        "label": "Torque",
+        "value": "418 lb-ft",
+        "sortValue": 418,
+        "unit": "lb-ft"
+      },
+      {
+        "label": "Engine",
+        "value": "5.0L V8"
+      },
+      {
+        "label": "Drive",
+        "value": "RWD"
+      }
+    ],
+    "strengths": [
+      "Characterful naturally aspirated V8",
+      "Available six-speed manual",
+      "Track-capable cooling and brakes"
+    ],
+    "tradeoffs": [
+      "Firm ride with track hardware",
+      "Interior packaging trails luxury coupes",
+      "Fuel consumption is substantial"
+    ],
+    "accent": "#6e8cff",
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/2025_Ford_Mustang_Dark_Horse_2.jpg/1600px-2025_Ford_Mustang_Dark_Horse_2.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:2025_Ford_Mustang_Dark_Horse_2.jpg",
+      "fallback": "/images/fallback/ford-mustang-dark-horse.svg",
+      "alt": "Blue Ford Mustang Dark Horse photographed from the front three-quarter angle",
+      "creator": "Calreyn88",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "representative": true
+    },
+    "officialUrl": "https://www.ford.com/cars/mustang/models/dark-horse/",
+    "sources": [
+      {
+        "label": "Ford USA — 2026 Mustang Dark Horse",
+        "url": "https://www.ford.com/cars/mustang/models/dark-horse/",
+        "kind": "manufacturer"
+      }
+    ],
+    "silhouette": "coupe"
+  },
+  {
+    "slug": "chevrolet-corvette-stingray",
+    "rank": 8,
+    "modelYear": 2027,
+    "brand": "Chevrolet",
+    "model": "Corvette Stingray",
+    "category": "Mid-engine sports car",
+    "award": "Best mid-engine performance value",
+    "tagline": "Exotic-car architecture without the exotic-car starting price.",
+    "summary": "The Stingray places a naturally aspirated V8 behind the passengers, pairing supercar proportions and acceleration with everyday cargo space and a comparatively accessible price.",
+    "whyItMadeTheList": "No other new mid-engine car offers this combination of speed, drama, dealer reach and starting price in the United States.",
+    "price": {
+      "amountUsd": 71000,
+      "display": "From $71,000",
+      "qualifier": "Manufacturer starting price; destination, taxes, title, options and dealer charges may be additional.",
+      "checkedOn": "2026-08-26"
+    },
+    "powertrain": {
+      "type": "Gasoline",
+      "engine": "6.7L naturally aspirated LS6 V8",
+      "drive": "Rear-wheel drive",
+      "transmission": "Eight-speed dual-clutch automatic"
+    },
+    "specs": [
+      {
+        "label": "Power",
+        "value": "535 hp",
+        "sortValue": 535,
+        "unit": "hp"
+      },
+      {
+        "label": "Torque",
+        "value": "520 lb-ft",
+        "sortValue": 520,
+        "unit": "lb-ft"
+      },
+      {
+        "label": "0–60 mph",
+        "value": "2.8 sec with Z51",
+        "sortValue": 2.8,
+        "unit": "sec"
+      },
+      {
+        "label": "Top speed",
+        "value": "200 mph",
+        "sortValue": 200,
+        "unit": "mph"
+      }
+    ],
+    "strengths": [
+      "Exceptional performance per dollar",
+      "Naturally aspirated V8 character",
+      "Useful front and rear cargo areas"
+    ],
+    "tradeoffs": [
+      "Limited rear visibility",
+      "No manual transmission",
+      "Cabin access and width can challenge tight spaces"
+    ],
+    "accent": "#ff743d",
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Chevrolet_Corvette_C8_Stingray_3LT_Coupe_Z51_Torch_Red_02.jpg/1600px-Chevrolet_Corvette_C8_Stingray_3LT_Coupe_Z51_Torch_Red_02.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Chevrolet_Corvette_C8_Stingray_3LT_Coupe_Z51_Torch_Red_02.jpg",
+      "fallback": "/images/fallback/chevrolet-corvette-stingray.svg",
+      "alt": "Red Chevrolet Corvette Stingray photographed from the front three-quarter angle",
+      "creator": "Ethan Llamas",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "representative": true
+    },
+    "officialUrl": "https://www.chevrolet.com/performance/corvette/stingray",
+    "sources": [
+      {
+        "label": "Chevrolet — 2027 Corvette Stingray",
+        "url": "https://www.chevrolet.com/performance/corvette/stingray",
+        "kind": "manufacturer"
+      }
+    ],
+    "silhouette": "sports"
+  },
+  {
+    "slug": "lucid-air-pure",
+    "rank": 9,
+    "modelYear": 2027,
+    "brand": "Lucid",
+    "model": "Air Pure",
+    "category": "Luxury electric sedan",
+    "award": "Best long-range luxury EV",
+    "tagline": "Range, space and restraint in one exceptionally efficient shape.",
+    "summary": "The rear-drive Air Pure turns aerodynamic efficiency into a large cabin, brisk performance and a projected 420-mile range without relying on an enormous visual footprint.",
+    "whyItMadeTheList": "It demonstrates that a luxury EV can prioritize efficiency and space while still feeling distinctive and genuinely quick.",
+    "price": {
+      "amountUsd": 70900,
+      "display": "From $70,900",
+      "qualifier": "Purchase price before taxes, title, license, destination and documentation fees.",
+      "checkedOn": "2026-08-26"
+    },
+    "powertrain": {
+      "type": "Battery electric",
+      "engine": "Single rear electric motor",
+      "drive": "Rear-wheel drive",
+      "transmission": "Single-speed reduction gear"
+    },
+    "specs": [
+      {
+        "label": "Power",
+        "value": "430 hp",
+        "sortValue": 430,
+        "unit": "hp"
+      },
+      {
+        "label": "Projected range",
+        "value": "Up to 420 mi",
+        "sortValue": 420,
+        "unit": "mi"
+      },
+      {
+        "label": "0–60 mph",
+        "value": "4.5 sec",
+        "sortValue": 4.5,
+        "unit": "sec"
+      },
+      {
+        "label": "Fast charge",
+        "value": "200 mi in ~16 min"
+      }
+    ],
+    "strengths": [
+      "Outstanding range and efficiency",
+      "Spacious, airy cabin",
+      "Quick high-voltage charging"
+    ],
+    "tradeoffs": [
+      "Smaller service footprint than legacy brands",
+      "Range is manufacturer-projected for this model year",
+      "Some features are software dependent"
+    ],
+    "accent": "#e5d6c7",
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/2024_Lucid_Air_Pure_in_Stellar_White%2C_front_left.jpg/1600px-2024_Lucid_Air_Pure_in_Stellar_White%2C_front_left.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:2024_Lucid_Air_Pure_in_Stellar_White,_front_left.jpg",
+      "fallback": "/images/fallback/lucid-air-pure.svg",
+      "alt": "White Lucid Air Pure photographed from the front three-quarter angle",
+      "creator": "Mr.choppers",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "representative": true
+    },
+    "officialUrl": "https://lucidmotors.com/air-pure",
+    "sources": [
+      {
+        "label": "Lucid Motors — Air Pure",
+        "url": "https://lucidmotors.com/air-pure",
+        "kind": "manufacturer"
+      }
+    ],
+    "silhouette": "sedan"
+  },
+  {
+    "slug": "hyundai-ioniq-5-n",
+    "rank": 10,
+    "modelYear": 2026,
+    "brand": "Hyundai",
+    "model": "IONIQ 5 N",
+    "category": "Performance EV crossover",
+    "award": "Best character-rich performance EV",
+    "tagline": "The EV that treats software as a source of driver engagement.",
+    "summary": "The IONIQ 5 N combines up to 641 hp with serious thermal management and playful software that can emulate shifts and sound without compromising its rapid-charging EV foundations.",
+    "whyItMadeTheList": "It is the rare high-performance EV designed around repeatable fun and driver feedback rather than acceleration numbers alone.",
+    "price": {
+      "amountUsd": 59900,
+      "display": "From $59,900",
+      "qualifier": "MSRP excluding Hyundai's $1,600 destination charge, taxes, registration and dealer charges.",
+      "checkedOn": "2026-08-26"
+    },
+    "powertrain": {
+      "type": "Battery electric",
+      "engine": "Dual electric motors",
+      "drive": "All-wheel drive",
+      "transmission": "Single-speed reduction gears with simulated N e-shift mode"
+    },
+    "specs": [
+      {
+        "label": "Peak power",
+        "value": "641 hp with N Grin Boost",
+        "sortValue": 641,
+        "unit": "hp"
+      },
+      {
+        "label": "Standard power",
+        "value": "601 hp",
+        "sortValue": 601,
+        "unit": "hp"
+      },
+      {
+        "label": "EPA range",
+        "value": "221 mi",
+        "sortValue": 221,
+        "unit": "mi"
+      },
+      {
+        "label": "Drive",
+        "value": "Dual-motor AWD"
+      }
+    ],
+    "strengths": [
+      "Playful, adjustable chassis",
+      "Repeatable track-oriented thermal management",
+      "Fast 800-volt charging architecture"
+    ],
+    "tradeoffs": [
+      "Shorter range than touring-focused EVs",
+      "Firm ride and aggressive seats",
+      "Simulated shifts and sound are deliberately theatrical"
+    ],
+    "accent": "#78dfff",
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Hyundai_Ioniq_5_N_DSC_2843.jpg/1600px-Hyundai_Ioniq_5_N_DSC_2843.jpg",
+      "pageUrl": "https://commons.wikimedia.org/wiki/File:Hyundai_Ioniq_5_N_DSC_2843.jpg",
+      "fallback": "/images/fallback/hyundai-ioniq-5-n.svg",
+      "alt": "Blue Hyundai IONIQ 5 N photographed from the front three-quarter angle",
+      "creator": "Alexander Migl",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "representative": true
+    },
+    "officialUrl": "https://www.hyundaiusa.com/us/en/vehicles/ioniq-5-n",
+    "sources": [
+      {
+        "label": "Hyundai USA — 2026 IONIQ 5 N",
+        "url": "https://www.hyundaiusa.com/us/en/vehicles/ioniq-5-n",
+        "kind": "manufacturer"
+      },
+      {
+        "label": "Hyundai Motor America — 2026 pricing",
+        "url": "https://www.hyundainews.com/releases/4871",
+        "kind": "manufacturer"
+      },
+      {
+        "label": "Car and Driver — IONIQ 5 N testing",
+        "url": "https://www.caranddriver.com/hyundai/ioniq-5-n",
+        "kind": "independent"
+      }
+    ],
+    "silhouette": "crossover"
+  }
+]
